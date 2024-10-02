@@ -515,11 +515,13 @@ echo $?
  
 echo $?
 ## OUTPUT 
- 
+ ![image](https://github.com/user-attachments/assets/b94976ba-8341-41d9-a695-cfa7c0a4f7f8)
+
 abcd
  
 echo $?
  ## OUTPUT
+![image](https://github.com/user-attachments/assets/e99cffed-59b3-465f-9075-754e87cae430)
 
 
  
@@ -900,6 +902,7 @@ done
 $ chmod 755 forin1.sh
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/923c413f-643a-44da-9874-a0e6cd1e48e6)
 
 cat forinfile.sh 
 ```bash
